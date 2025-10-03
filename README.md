@@ -91,7 +91,7 @@ Al preparar el concurso se actualizan las recetas con las siguientes especificac
 - 🥘 La paella otorga 8 puntos cuando tiene mariscos.
 - 🍝 El risotto de hongos otorga 16 puntos en primavera.
 - 👩‍🍳 Paulina obtiene 20 puntos luego de cocinar Ensalada.
-- 🐭 Remy obtiene 17 puntos al cocinar Risotto de Pollo con ayuda de Ratatouille.
+- 🐭 Remy obtiene 13 puntos al cocinar Risotto de Pollo con ayuda de Ratatouille.
 - 👨‍🍳 Christof después de aprender Ensalada no puede cocinarla (porque no tiene ayudantes pares).
 - 📚 Cuando Christof aprende Ensalada, olvida su receta anterior.
 - 🏆 El concurso cuenta correctamente que hay 2 chefs que pueden cocinar Risotto.
